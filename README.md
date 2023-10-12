@@ -13,3 +13,6 @@ Also iterates through the summary data in order to find the stocks with the
 - greatest percent increase
 - greatest percent decrease
 - greatest total volume
+
+
+Works by using a for loop to find opening and closing price for each stock, as well as summing total volume for each entry to give total. The summary data is then run through another for loop. 
